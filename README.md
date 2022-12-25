@@ -1,8 +1,5 @@
 # Домашнее задание по первому семинару 
 ## Дата выполнения 25.12.2022 (воскресенье)
-### [задача №1](https://olegsamy.github.io/1DZ_JS/hw1_task1.html)
-### [задача №1](https://github.com/olegsamy/1DZ_JS/blob/main/hw1_task1.html) 
-### [задача №2](https://github.com/olegsamy/1DZ_JS/blob/main/hm1_task2.html) 
 
 ### Задание 1
 Необходимо создать переменную в которой будет храниться температура в градусах Цельсия,
@@ -11,8 +8,14 @@
 градусы Фаренгейта = (9 / 5) * градусы Цельсия + 32
 Вывести в консоль температуру в Цельсиях и Фарингейтах
 
+### [задача №1 код](https://github.com/olegsamy/1DZ_JS/blob/main/hw1_task1.html) 
+### [задача №1 html](https://olegsamy.github.io/1DZ_JS/hw1_task1.html)
+
 ### Задание 2
 Необходимо создать переменную name, записать в эту переменную свое имя.
 Необходимо также создать переменную admin и присвоить этой переменной значение
 из переменной name.
 Вывести значение переменной admin в консоль.
+
+### [задача №2 код](https://github.com/olegsamy/1DZ_JS/blob/main/hm1_task2.html) 
+### [задача №2 html](https://olegsamy.github.io/1DZ_JS/hm1_task2.html)
