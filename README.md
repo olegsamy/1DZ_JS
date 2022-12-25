@@ -1,7 +1,7 @@
 # Домашнее задание по первому семинару 
 ## Дата 25.12.2022 (суббота)
-### [задача №1](https//olegamy.github.io/1DZ_JS/hm1_task1.html) 
-### [задача №2](https//olegamy.github.io/1DZ_JS/hm1_task2.html) 
+### [задача №1](https://github.com/olegsamy/1DZ_JS/blob/main/hm1_task1.html) 
+### [задача №2](https://github.com/olegsamy/1DZ_JS/blob/main/hm1_task2.html) 
 
 ### Задание 1
 Необходимо создать переменную в которой будет храниться температура в градусах Цельсия,
