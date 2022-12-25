@@ -1,5 +1,6 @@
 # Домашнее задание по первому семинару 
 ## Дата выполнения 25.12.2022 (воскресенье)
+### [задача №1](https://olegsamy.github.io/1DZ_JS/hw1_task1.html)
 ### [задача №1](https://github.com/olegsamy/1DZ_JS/blob/main/hw1_task1.html) 
 ### [задача №2](https://github.com/olegsamy/1DZ_JS/blob/main/hm1_task2.html) 
 
